@@ -4,7 +4,6 @@ The purpose of this repository is to document and display concepts that I have l
 ---
 
 ## Things I have done so far:
-
 <img src="images/ubuntu-linux.jpg" width="300">
 
 ### Linux

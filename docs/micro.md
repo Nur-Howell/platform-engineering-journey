@@ -28,3 +28,7 @@ delay(100);
 
 }
 ```
+Reading the state of the pin, pull down resistor allows for better accuracy.
+`void setup()` allows to setup the configurations
+`void loop()` allows for functionality
+

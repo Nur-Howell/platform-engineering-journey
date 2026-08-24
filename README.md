@@ -5,6 +5,12 @@
 ![Roadmap Stage](https://img.shields.io/badge/Roadmap_Stage-Auth-blueviolet?style=for-the-badge&logo=roadmapdotsh)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+<!-- GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
+</p>
+
+<!-- WakaTime Stats (Updated automatically via GitHub Action) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -31,3 +37,15 @@ Below are the respective sections from the roadmap that I have done.
 #### Projects
 * [`Linux Network Diagnostics`](https://github.com/Nur-Howell/lnd) — Network diagnostics CLI-based tool that generates an overview of the user's network analytics.
 
+---
+
+## Activity Analytics
+
+<!-- GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
+</p>
+
+<!-- WakaTime Stats (Updated automatically via GitHub Action) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

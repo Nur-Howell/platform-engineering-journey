@@ -1,26 +1,33 @@
 # Platform Engineering Journey
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Learning-blue?style=for-the-badge&logo=git)
+![Roadmap Stage](https://img.shields.io/badge/Roadmap_Stage-Auth-blueviolet?style=for-the-badge&logo=roadmapdotsh)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 The purpose of this repository is to document and display concepts that I have learnt and still learning over time with regards to Platform Engineering.
 Below are the respective sections from the roadmap that I have done.
-## Linux
+## Roadmap Progress
 
-* Overview of distributions
-* Basic Commands & FHS
-* Nano
-* File Management
-* System Monitoring
-* User Management
-* Package Management
-* Bash Scripting
-* Network Basics
-* Process Management
-### Projects
-* `Linux System Health Checker` [Visit Repository](https://github.com/Nur-Howell/linux-system-health-checker)
+### Linux Administration
+* **Fundamentals:** Distributions Overview, File System Hierarchy Standard (FHS), Basic Commands, File Management
+* **System Operations:** Process Management, User & Permission Management, Package Management, System Monitoring
+* **Automation & Networking:** Bash Scripting, Network Basics, Text Editing (`nano`, `vim`)
 
-## Networking
-* SSH
-* HTTP/HTTPS
-* SSL/TLS
-* Web Servers
-* TCP vs UDP
-* DHCP
-* Load Balancing
+#### Projects
+* [`Linux System Health Checker`](https://github.com/Nur-Howell/linux-system-health-checker) — Automated Bash script for monitoring CPU, memory, disk usage, and system services.
+
+---
+
+### Computer Networking & Protocols
+* **Remote Management:** SSH Key Authentication, Security & Hardening
+* **Web Protocols:** HTTP/HTTPS Fundamentals, SSL/TLS Handshakes & Certificates
+* **Web Architecture:** Web Servers (Nginx, Apache), Reverse Proxies, Load Balancing Algorithms
+* **Core Networking:** TCP vs UDP, DHCP Configuration, Subnetting
+
+#### Projects
+* [`Linux Network Diagnostics`](https://github.com/Nur-Howell/lnd) — Network diagnostics CLI-based tool that generates an overview of the user's network analytics.
+

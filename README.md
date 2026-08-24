@@ -12,6 +12,15 @@
 
 <!-- WakaTime Stats (Updated automatically via GitHub Action) -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 August 2026 - To: 23 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 The purpose of this repository is to document and display concepts that I have learnt and still learning over time with regards to Platform Engineering.

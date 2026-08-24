@@ -34,9 +34,8 @@ Below are the respective sections from the roadmap that I have done.
 ## Activity Analytics
 
 <!-- GitHub Stats Card -->
-<p align="left">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
-</p>
+[![Nur's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nur-Howell&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 <!-- WakaTime Stats (Updated automatically via GitHub Action) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

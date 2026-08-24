@@ -5,23 +5,6 @@
 ![Roadmap Stage](https://img.shields.io/badge/Roadmap_Stage-Auth-blueviolet?style=for-the-badge&logo=roadmapdotsh)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<!-- GitHub Stats Card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
-</p>
-
-<!-- WakaTime Stats (Updated automatically via GitHub Action) -->
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 August 2026 - To: 23 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 The purpose of this repository is to document and display concepts that I have learnt and still learning over time with regards to Platform Engineering.
 Below are the respective sections from the roadmap that I have done.
@@ -52,9 +35,8 @@ Below are the respective sections from the roadmap that I have done.
 
 <!-- GitHub Stats Card -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=Nur-Howell&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
 </p>
-
 <!-- WakaTime Stats (Updated automatically via GitHub Action) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

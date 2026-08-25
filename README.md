@@ -38,4 +38,13 @@ Below are the respective sections from the roadmap that I have done.
 
 <!-- WakaTime Stats (Updated automatically via GitHub Action) -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 August 2026 - To: 24 August 2026
+
+Total Time: 20 mins
+
+Markdown   20 mins               █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->

@@ -31,6 +31,14 @@ Below are the respective sections from the roadmap that I have done.
 
 ---
 
+### Authentication
+
+* **Foundational Frameworks:** OAuth 1.0 vs 2.0 Evolution, Bearer Token Mechanics, Identity Control vs. Data Plane Decoupling
+
+* **Architectural Roles:** Resource Owner, Client Application, Authorization Server, Resource Server
+
+* **Credential Lifecycles:** Access Tokens, Refresh Tokens, Ephemeral Authorization Codes
+
 ## Activity Analytics
 
 <!-- GitHub Stats Card -->

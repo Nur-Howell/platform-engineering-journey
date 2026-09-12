@@ -48,11 +48,11 @@ Below are the respective sections from the roadmap that I have done.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 41 mins
+Total Time: 22 mins
 
-Markdown   41 mins               █████████████████████████   100.00 %
+Markdown   22 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

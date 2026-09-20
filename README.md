@@ -48,7 +48,7 @@ Below are the respective sections from the roadmap that I have done.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
 Total Time: 55 mins
 
